@@ -8,7 +8,9 @@ By Lee Mutahi
 #Languages used HTML for the user interface and styling CSS/boostrap for general additional styling javaScript & jQuery for the functionality
 
 #Installation uses web browser i.e. Google Chrome, Mozilla to run. Edited using atom text editor
+
 #Known Bugs- Interactive menu does not function properly. Background image of menu doesn't work.
+
 #All coypright reserved to Lee Mutahi 2018.
 
 #Link to web application  https://lee-m-m.github.io/anita-lm/
